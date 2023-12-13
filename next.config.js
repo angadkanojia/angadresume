@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
+/** @type {import('next/dist/next-server/server/config').NextConfig} */
+const nextConfig = {};
 
-module.exports = nextConfig
+module.exports = nextConfig;
